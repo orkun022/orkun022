@@ -60,6 +60,18 @@ AI-based IDS that classifies network traffic into **4 attack types**: DoS, Probe
 
 </td>
 </tr>
+<tr>
+<td colspan="2">
+
+### 🤖 [Zoom AI Chatbot](https://github.com/orkun022/Zoom-AI-Chatbot)
+**Enterprise Conversational Assistant for Zoom Team Chat**
+
+AI-powered chatbot integrated into Zoom Team Chat with **Maistro NLP** backend. Handles webhooks, OAuth 2.0 token management, and real-time messaging via XMPP. Achieved **95% accuracy** across **650+ test queries**. Features error resilience with fallback responses.
+
+`Node.js` `Express.js` `Zoom API` `OAuth 2.0` `Webhooks` `NLP`
+
+</td>
+</tr>
 </table>
 
 ---
