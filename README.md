@@ -16,7 +16,6 @@ I build projects that turn data into understandable results — from URL analysi
 | --- | --- | --- |
 | [PhishGuard-AI](https://github.com/orkun022/PhishGuard-AI) | URL feature extraction, ML model comparison, and a Streamlit analysis workspace | Python, scikit-learn, XGBoost, Streamlit |
 | [NetShield-AI](https://github.com/orkun022/NetShield-AI) | Binary traffic classification and anomaly detection experiments | Python, scikit-learn, Pandas, Streamlit |
-| [PhishGuard](https://github.com/orkun022/phishguard) | Browser-only URL screening with explainable structural risk signals | JavaScript, HTML, CSS, PWA |
 | [FitTrack](https://github.com/orkun022/fitness-tracker) | Workout, nutrition, and training-program tracking | JavaScript, Chart.js, localStorage, PWA |
 | [Zoom AI Chatbot](https://github.com/orkun022/Zoom-AI-Chatbot) | Zoom Team Chat integration with an NLP backend, webhooks, and OAuth token handling | Node.js, Express.js, Zoom API |
 
