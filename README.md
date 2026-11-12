@@ -19,7 +19,6 @@ I build projects that turn data into understandable results — from URL analysi
 | [PhishGuard](https://github.com/orkun022/phishguard) | Browser-only URL screening with explainable structural risk signals | JavaScript, HTML, CSS, PWA |
 | [FitTrack](https://github.com/orkun022/fitness-tracker) | Workout, nutrition, and training-program tracking | JavaScript, Chart.js, localStorage, PWA |
 | [Zoom AI Chatbot](https://github.com/orkun022/Zoom-AI-Chatbot) | Zoom Team Chat integration with an NLP backend, webhooks, and OAuth token handling | Node.js, Express.js, Zoom API |
-| [Slot Machine](https://github.com/orkun022/SlotMachine-CPP) | A terminal game with virtual credits and validated input | C++17 |
 
 ## My toolkit
 
